@@ -33,9 +33,7 @@
 - Java Development
 
 
-
 # 🛠 Tech Stack
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -137,7 +135,6 @@ Built using **C Language**
 # 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hammad-imran-6b7005394/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Salvador9111)
 
 ---
