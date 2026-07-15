@@ -11,19 +11,9 @@
 ---
 
 # 🚀 About Me
-
 🎓 Undergraduate Software Engineering student
 
 💻 Passionate about Artificial Intelligence, Software Development, and Problem Solving
-
-🌱 Currently learning
-
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Google Gemini API
-- Machine Learning
-- Data Structures & Algorithms
-
 ⚡ Interested in
 
 - Artificial Intelligence
