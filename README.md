@@ -7,7 +7,7 @@
 
 </div>
 
----
+
 
 # 🚀 About Me
 💻 Passionate about Artificial Intelligence, Software Development, and Problem Solving
