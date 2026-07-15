@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hammad Imran
-
 ### Software Engineering Undergraduate | AI Enthusiast | Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Learning+RAG+%26+LLMs;Always+Building+Something+New" alt="Typing SVG" />
