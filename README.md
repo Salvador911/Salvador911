@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Hammad Imran
+# Hammad Imran
 
 ### Software Engineering Undergraduate | AI Enthusiast | Python Developer
 
