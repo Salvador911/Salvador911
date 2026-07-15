@@ -11,8 +11,6 @@
 ---
 
 # 🚀 About Me
-🎓 Undergraduate Software Engineering student
-
 💻 Passionate about Artificial Intelligence, Software Development, and Problem Solving
 ⚡ Interested in
 
