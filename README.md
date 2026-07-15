@@ -32,38 +32,28 @@
 - Open Source
 - Java Development
 
----
+
 
 # 🛠 Tech Stack
 
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## AI & Machine Learning
-
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## Databases
-
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5E5CE6?style=for-the-badge)
 
 ## Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
 
 ---
@@ -107,18 +97,7 @@ A complete console-based reservation system featuring:
 
 Built using **C Language**
 
----
 
-## 📚 Smart Library System
-
-Console-based Library Management System developed in Java.
-
-Features include:
-
-- Book Management
-- User Management
-- Borrow/Return System
-- File Storage
 
 ---
 
